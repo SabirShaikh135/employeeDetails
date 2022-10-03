@@ -1,0 +1,22 @@
+.addrecordbutton{
+    margin-left: 100px;
+}
+table {
+    width: 90%;
+    margin: auto;
+  }
+
+  th{
+      background-color: rgb(76, 76, 219);
+  }
+  
+  td, th {
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.mainContainer{
+    margin-left: 6rem;
+}
